@@ -27,8 +27,8 @@ class hparams:
     # Data Parameters             #
     ################################
     load_mel_from_disk = False  #实际上是区别用 numpy读wav ，还是用scipy读wav
-    training_files = 'filelists/zh_audio_text_train_filelist.txt'
-    validation_files = 'filelists/zh_audio_text_val_filelist.txt'
+    training_files = 'filelists/training_test_pinyin.txt'
+    validation_files = 'filelists/training_test_pinyin.txt'
     text_cleaners = ['english_cleaners']
 
     ################################
