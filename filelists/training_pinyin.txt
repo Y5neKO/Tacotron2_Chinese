@@ -1,0 +1,3 @@
+training/train1.wav| suo3 yi3 zhe4 xie1 fan2 ren2 de sheng1 wu4 huo2 dong4 fan4 wei2 jiu4 yue4 lai2 yue4 jin4 
+training/train2.wav| ta1 zai4 fei1 chang2 fei1 chang2 yao2 yuan3 de lv3 tu2 zhong1 he2 mei4 mei4 shi1 san4 le 
+training/train3.wav| a na4 ge4 yao4 cai2 na4 tiao2 she2 shuo1 shuo1 shuo1 shuo1 shuo1 hua4 le 
