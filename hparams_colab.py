@@ -1,5 +1,5 @@
     #############################################
-    # Colab专用,因为Colab已不支持Tensorflow1.15  #
+    # Colab专用,因为Colab已不支持Tensorflow1.5  #
     #############################################
 import tensorflow as tf
 from text import symbols
