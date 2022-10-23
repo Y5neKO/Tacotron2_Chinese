@@ -1,0 +1,2 @@
+# Tacotron2_Chinese
+基于Tacotron2进行语音模型训练
