@@ -25,8 +25,8 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/training_test_pinyin.txt',
-        validation_files='filelists/training_test_pinyin.txt',
+        training_files='filelists/training_pinyin.txt',
+        validation_files='filelists/training_pinyin.txt',
         text_cleaners=['english_cleaners'],
 
         ################################
